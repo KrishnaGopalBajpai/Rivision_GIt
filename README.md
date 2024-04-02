@@ -1,2 +1,2 @@
-# Rivision_GIt
-just trying to revisied the git tool as i forget it now.
+# Re-vision_Git
+just trying to revisited the git tool as i forget it now.
